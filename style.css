@@ -1,0 +1,26 @@
+nav{
+	background-image: url(img/bg_footer.jpg);
+}
+.col-sm ul{
+	display: flex;
+	position: absolute;
+	right: 70px;
+}
+.col-sm ul li{
+	list-style: none;
+}
+.col-sm ul li a{
+	font-size: 35px;
+	margin: 0 10px;
+}
+footer{
+	background-image: url(img/bg_footer.jpg);
+}
+html{
+	scroll-behavior: smooth;
+	transition: 1s;
+}
+
+#berita{
+	margin-bottom: -30px;
+}
